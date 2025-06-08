@@ -1,0 +1,540 @@
+<title>FACE LIKE - Rencontres par Swipe Gratuit</title>
+<description>
+  Trouvez l'amour avec FACE LIKE ! ✅ Profils vérifiés ✅ Chat instantané ✅ 1 semaine gratuite. 
+  L'app de rencontre la plus intuitive pour matchs locaux. Téléchargez maintenant !
+</description>Je ne peux pas ouvrir GitHub directement pour vous, mais voici **comment créer un dépôt GitHub pour FACE LIKE en 5 étapes rapides** :
+
+---
+
+### 🚀 **1. Créez un nouveau dépôt**
+1. Allez sur [github.com/new](https://github.com/new)
+2. Remplissez :
+   - **Repository name** : `face_like`
+   - **Visibility** : Public/Private
+   - ✅ _Add a README.md_
+   - ✅ _Add .gitignore_ → **Flutter**
+   - ✅ _Choose a license_ (MIT recommandé)
+
+---
+
+### 🔥 **2. Clonez en local**
+```bash
+git clone https://github.com/votre-username/face_like.git
+cd face_like
+```
+
+---
+
+### 📦 **3. Copiez vos fichiers Flutter**
+```bash
+# Depuis votre dossier projet existant
+cp -r /chemin/vers/votre/projet/flutter/* face_like/
+```
+
+---
+
+### 🔗 **4. Premier commit**
+```bash
+git add .
+git commit -m "Initial commit with full FACE LIKE codebase"
+git push origin main
+```
+
+---
+
+### ⚙️ **5. Configurez Firebase CI/CD** (Optionnel)
+Créez un fichier `.github/workflows/deploy.yml` :
+```yaml
+name: Deploy to Firebase
+on: push
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: flutter pub get
+      - run: firebase deploy --token "${{ secrets.FIREBASE_TOKEN }}"
+```
+
+---
+
+### 🌟 **Bonus : Liens clés**
+1. **[Template Flutter/Firebase](https://github.com/matanlurey/flutter-firebase-template)**  
+   ```bash
+   git clone --depth=1 https://github.com/matanlurey/flutter-firebase-template.git
+   ```
+
+2. **[Exemple de dépôt de dating app](https://github.com/TheAlphamerc/flutter_tinder_clone)**
+
+---
+
+### 🛠 **Si vous rencontrez des problèmes**
+1. **Erreur d'authentification** :
+   ```bash
+   git remote set-url origin https://votre-username:VOTRE_TOKEN@github.com/votre-username/face_like.git
+   ```
+
+2. **Fichiers trop volumineux** :
+   ```bash
+   git lfs installJe ne peux pas ouvrir GitHub directement pour vous, mais voici **comment créer un dépôt GitHub pour FACE LIKE en 5 étapes rapides** :
+
+---
+
+### 🚀 **1. Créez un nouveau dépôt**
+1. Allez sur [github.com/new](https://github.com/new)
+2. Remplissez :
+   - **Repository name** : `face_like`
+   - **Visibility** : Public/Private
+   - ✅ _Add a README.md_
+   - ✅ _Add .gitignore_ → **Flutter**
+   - ✅ _Choose a license_ (MIT recommandé)
+
+---
+
+### 🔥 **2. Clonez en local**
+```bash
+git clone https://github.com/votre-username/face_like.git
+cd face_like
+```
+
+---
+
+### 📦 **3. Copiez vos fichiers Flutter**
+```bash
+# Depuis votre dossier projet existant
+cp -r /chemin/vers/votre/projet/flutter/* face_like/
+```
+
+---
+
+### 🔗 **4. Premier commit**
+```bash
+git add .
+git commit -m "Initial commit with full FACE LIKE codebase"
+git push origin main
+```
+
+---
+
+### ⚙️ **5. Configurez Firebase CI/CD** (Optionnel)
+Créez un fichier `.github/workflows/deploy.yml` :
+```yaml
+name: Deploy to Firebase
+on: push
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: flutter pub get
+      - run: firebase deploy --token "${{ secrets.FIREBASE_TOKEN }}"
+```
+
+---
+
+### 🌟 **Bonus : Liens clés**
+1. **[Template Flutter/Firebase](https://github.com/matanlurey/flutter-firebase-template)**  
+   ```bash
+   git clone --depth=1 https://github.com/matanlurey/flutter-firebase-template.git
+   ```
+
+2. **[Exemple de dépôt de dating app](https://github.com/TheAlphamerc/flutter_tinder_clone)**
+
+---
+
+### 🛠 **Si vous rencontrez des problèmes**
+1. **Erreur d'authentification** :
+   ```bash
+   git remote set-url origin https://votre-username:VOTRE_TOKEN@github.com/votre-username/face_like.git
+   ```
+
+2. **Fichiers trop volumineux** :
+   ```bash
+   git lfs install
+   git lfs track "*.mp4" "*.png"
+   ```
+
+---
+
+Je reste disponible pour vous guider pas à pas sur la configuration spécifique de votre dépôt ! Dites-moi si vous souhaitez :  
+- [ ] Configurer des **secrets GitHub** pour Firebase  
+- [ ] Ajouter une **wiki** au dépôt  
+- [ ] Automatiser les **builds Android/iOS**  
+
+[➡️ Cliquez ici pour créer votre dépôt maintenant](https://github.com/new)
+   git lfs track "*.mp4" "*.png"
+   ```
+
+---
+
+Je reste disponible pour vous guider pas à pas sur la configuration spécifique de votre dépôt ! Dites-moi si vous souhaitez :  
+- [ ] Configurer des **secrets GitHub** pour Firebase  
+- [ ] Ajouter une **wiki** au dépôt  
+- [ ] Automatiser les **builds Android/iOS**  
+
+[➡️ Cliquez ici pour créer votre dépôt maintenant](https://github.com/new)
+<keywords>rencontre, dating, tinder, match, chat, amour, célibataires</keywords>
+
+Je ne peux pas ouvrir GitHub directement pour vous, mais voici **comment créer un dépôt GitHub pour FACE LIKE en 5 étapes rapides** :
+
+---
+
+### 🚀 **1. Créez un nouveau dépôt**git clone --depth=1 https://github.com/matanlurey/flutter-firebase-template.git
+1. Allez sur [github.com/new](https://github.com/new)
+2. Remplissez :
+   - **Repository name** : `face_like`name: Deploy to Firebase
+on: push
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: flutter pub get
+      - run: firebase deploy --token "${{ secrets.FIREBASE_TOKEN }}"
+   - **Visibility** : Public/Private
+   - ✅ _Add a README.md_
+   - ✅ _Add .gitignore_ → **Flutter**
+   - ✅ _Choose a license_ (MIT recommandé)
+
+---
+
+### 🔥 **2. Clonez en local**
+```bash
+git clone https://github.com/votre-username/face_like.git
+cd face_like
+```
+
+---
+
+### 📦 **3. Copiez vos fichiers Flutter**
+```bash
+# Depuis votre dossier projet existant
+cp -r /chemin/vers/votre/projet/flutter/* face_like/
+```
+
+---
+
+### 🔗 **4. Premier commit**
+```bash
+git add .
+git commit -m "Initial commit with full FACE LIKE codebase"
+git push origin main
+```
+
+---
+
+### ⚙️ **5. Configurez Firebase CI/CD** (Optionnel)
+Créez un fichier `.github/workflows/deploy.yml` :
+```yaml
+name: Deploy to Firebase
+on: push
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: flutter pub get
+      - run: firebase deploy --token "${{ secrets.FIREBASE_TOKEN }}"
+```
+
+---
+
+### 🌟 **Bonus : Liens clés**
+1. **[Template Flutter/Firebase](https://github.com/matanlurey/flutter-firebase-template)**  
+   ```bash
+   git clone --depth=1 https://github.com/matanlurey/flutter-firebase-template.git
+   ```
+
+2. **[Exemple de dépôt de dating app](https://github.com/TheAlphamerc/flutter_tinder_clone)**
+
+---
+
+### 🛠 **Si vous rencontrez des problèmes**
+1. **Erreur d'authentification** :
+   ```bash
+   git remote set-url origin https://votre-username:VOTRE_TOKEN@github.com/votre-username/face_like.git
+   ```
+
+2. **Fichiers trop volumineux** :
+   ```bash
+   git lfs install
+   git lfs track "*.mp4" "*.png"
+   ```
+
+---
+
+Je reste disponible pour vous guider pas à pas sur la configuration spécifique de votre dépôt ! Dites-moi si vous souhaitez :  
+- [ ] Configurer des **secrets GitHub** pour Firebase  
+- [ ] Ajouter une **wiki** au dépôt  
+- [ ] Automatiser les **builds Android/iOS**  
+
+[➡️ Cliquez ici pour créer votre dépôt maintenant](https://github.com/new)Je ne peux pas ouvrir GitHub directement pour vous, mais voici **comment créer un dépôt GitHub pour FACE LIKE en 5 étapes rapides** :
+
+---
+
+### 🚀 **1. Créez un nouveau dépôt**
+1. Allez sur [github.com/new](https://github.com/new)
+2. Remplissez :
+   - **Repository name** : `face_like`
+   - **Visibility** : Public/Private
+   - ✅ _Add a README.md_
+   - ✅ _Add .gitignore_ → **Flutter**
+   - ✅ _Choose a license_ (MIT recommandé)
+
+---
+
+### 🔥 **2. Clonez en local**
+```bash
+git clone https://github.com/votre-username/face_like.git
+cd face_like
+```
+
+---
+
+### 📦 **3. Copiez vos fichiers Flutter**
+```bash
+# Depuis votre dossier projet existant
+cp -r /chemin/vers/votre/projet/flutter/* face_like/
+```
+
+---
+
+### 🔗 **4. Premier commit**
+```bash
+git add .
+git commit -m "Initial commit with full FACE LIKE codebase"
+git push origin main
+```
+
+---
+
+### ⚙️ **5. Configurez Firebase CI/CD** (Optionnel)
+Créez un fichier `.github/workflows/deploy.yml` :
+```yaml
+name: Deploy to Firebase
+on: push
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: flutter pub get
+      - run: firebase deploy --token "${{ secrets.FIREBASE_TOKEN }}"
+```
+
+---
+
+### 🌟 **Bonus : Liens clés**
+1. **[Template Flutter/Firebase](https://github.com/matanlurey/flutter-firebase-template)**  
+   ```bash
+   git clone --depth=1 https://github.com/matanlurey/flutter-firebase-template.git
+   ```
+
+2. **[Exemple de dépôt de dating app](https://github.com/TheAlphamerc/flutter_tinder_clone)**
+
+---
+
+### 🛠 **Si vous rencontrez des problèmes**
+1. **Erreur d'authentification** :
+   ```bash
+   git remote set-url origin https://votre-username:VOTRE_TOKEN@github.com/votre-username/face_like.git
+   ```
+
+2. **Fichiers trop volumineux** :
+   ```bash
+   git lfs install
+   git lfs track "*.mp4" "*.png"
+   ```
+
+---git remote set-url origin https://votre-username:VOTRE_TOKEN@github.com/votre-username/face_like.git
+
+Je reste disponible pour vous guider pas à pas sur la configuration spécifique de votre dépôt ! Dites-moi si vous souhaitez :  
+- [ ] Configurer des **secrets GitHub** pour Firebase  
+- [ ] Ajouter une **wiki** au dépôt  
+- [ ] Automatiser les **builds Android/iOS**  Pour **FACE LIKE**, voici des suggestions de **balises (tags)** optimisées pour la découvrabilité et le référencement, adaptées aux stores d'applications et au web :
+
+---
+
+### 📱 **Balises pour Stores (ASO - App Store Optimization)**
+#### **Google Play Store**
+```xml
+<title>FACE LIKE - Rencontres par Swipe Gratuit</title>
+<description>
+  Trouvez l'amour avec FACE LIKE ! ✅ Profils vérifiés ✅ Chat instantané ✅ 1 semaine gratuite. 
+  L'app de rencontre la plus intuitive pour matchs locaux. Téléchargez maintenant !
+</description>
+<keywords>rencontre, dating, tinder, match, chat, amour, célibataires</keywords>
+```
+
+#### **Apple App Store**
+```xml
+<name>FACE LIKE: Dating & New Friends</name>
+<subtitle>Swipe. Match. Love.</subtitle>
+<keywords>rencontre, love, relation, mariage, célibataire, rencontre rapide</keywords>
+<promotional-text>"7 jours gratuits pour trouver votre match idéal !"</promotional-text>
+```
+
+---
+
+### 🌐 **Balises Meta pour le Site Web**
+```html
+<!-- index.html -->
+<meta name="application-name" content="FACE LIKE">
+<meta name="description" content="Appli de rencontre gratuite avec chat et matching instantané. Essayez 7 jours gratuitement !">
+<meta name="keywords" content="app rencontre, dating app, application célibataires, chat rencontre, match amoureux">
+<meta property="og:title" content="FACE LIKE - Trouvez l'amour en un swipe">
+<meta property="og:image" content="https://facelike.app/social-preview.jpg">
+```
+
+---
+
+### 📌 **Hashtags pour Réseaux Sociaux**
+```markdown
+#FaceLike #RencontreFacile #DatingApp #FindYourMatch #AmourEnLigne #SwipeAndLove
+```
+
+---
+
+### 🔍 **Mots-Clés Prioritaires (SEO/ASO)**
+| Catégorie          | Mots-Clés Recommandés                          |
+|--------------------|-----------------------------------------------|
+| **Génériques**     | rencontre, dating, chat, célibataires, match  |
+| **Spécifiques**    | app rencontre gratuite, swipe like tinder, trouver l'amour 2024 |
+| **Localisation**   | rencontre [ville], célibataires près de moi   |
+
+---
+
+### ⚠️ **Évitez Ces Erreurs**
+1. **Balises trop génériques**  
+   ❌ "Application de rencontre" → ✅ "FACE LIKE: App de rencontre premium"  
+2. **Surcharge de keywords**  
+   → Max 10 mots-clés pertinents par store  
+3. **Oublier les balises OG**  
+   Essentielles pour le partage social !
+
+---
+
+### 🛠 **Outils pour Optimiser Vos Balises**
+1. **Google Play Console** : A/B testing des métadonnées  
+2. **App Store Connect** : Analyse des mots-clés  
+3. **SEMrush** : Recherche de keywords  
+4. **Meta Tag Checker** : Vérification des balises OG  
+
+---
+
+### 📝 **Exemple de Fichier `manifest.json` (PWA)**
+```json
+{
+  "name": "FACE LIKE",
+  "short_name": "FLike",
+  "description": "Application de rencontre avec matching intelligent",
+  "theme_color": "#FF4081",
+  "background_color": "#FFFFFF"
+}
+```
+
+---
+Pour **FACE LIKE**, voici des suggestions de **balises (tags)** optimisées pour la découvrabilité et le référencement, adaptées aux stores d'applications et au web :
+
+---
+
+### 📱 **Balises pour Stores (ASO - App Store Optimization)**
+#### **Google Play Store**
+```xml
+<title>FACE LIKE - Rencontres par Swipe Gratuit</title>
+<description>
+  Trouvez l'amour avec FACE LIKE ! ✅ Profils vérifiés ✅ Chat instantané ✅ 1 semaine gratuite. 
+  L'app de rencontre la plus intuitive pour matchs locaux. Téléchargez maintenant !
+</description>
+<keywords>rencontre, dating, tinder, match, chat, amour, célibataires</keywords>
+```
+
+#### **Apple App Store**
+```xml
+<name>FACE LIKE: Dating & New Friends</name>
+<subtitle>Swipe. Match. Love.</subtitle>
+<keywords>rencontre, love, relation, mariage, célibataire, rencontre rapide</keywords>
+<promotional-text>"7 jours gratuits pour trouver votre match idéal !"</promotional-text>
+```
+
+---
+
+### 🌐 **Balises Meta pour le Site Web**
+```html
+<!-- index.html -->
+<meta name="application-name" content="FACE LIKE">
+<meta name="description" content="Appli de rencontre gratuite avec chat et matching instantané. Essayez 7 jours gratuitement !">
+<meta name="keywords" content="app rencontre, dating app, application célibataires, chat rencontre, match amoureux">
+<meta property="og:title" content="FACE LIKE - Trouvez l'amour en un swipe">
+<meta property="og:image" content="https://facelike.app/social-preview.jpg">
+```
+
+---
+
+### 📌 **Hashtags pour Réseaux Sociaux**
+```markdown
+#FaceLike #RencontreFacile #DatingApp #FindYourMatch #AmourEnLigne #SwipeAndLove
+```
+
+---
+
+### 🔍 **Mots-Clés Prioritaires (SEO/ASO)**
+| Catégorie          | Mots-Clés Recommandés                          |
+|--------------------|-----------------------------------------------|
+| **Génériques**     | rencontre, dating, chat, célibataires, match  |
+| **Spécifiques**    | app rencontre gratuite, swipe like tinder, trouver l'amour 2024 |
+| **Localisation**   | rencontre [ville], célibataires près de moi   |
+
+---
+
+### ⚠️ **Évitez Ces Erreurs**
+1. **Balises trop génériques**  
+   ❌ "Application de rencontre" → ✅ "FACE LIKE: App de rencontre premium"  
+2. **Surcharge de keywords**  
+   → Max 10 mots-clés pertinents par store  
+3. **Oublier les balises OG**  
+   Essentielles pour le partage social !
+
+---
+
+### 🛠 **Outils pour Optimiser Vos Balises**
+1. **Google Play Console** : A/B testing des métadonnées  
+2. **App Store Connect** : Analyse des mots-clés  
+3. **SEMrush** : Recherche de keywords  
+4. **Meta Tag Checker** : Vérification des balises OG  
+
+---
+
+### 📝 **Exemple de Fichier `manifest.json` (PWA)**
+```json
+{
+  "name": "FACE LIKE",
+  "short_name": "FLike",
+  "description": "Application de rencontre avec matching intelligent",
+  "theme_color": "#FF4081",
+  "background_color": "#FFFFFF"
+}
+```
+
+---
+
+Besoin d’aide pour :  {
+  "name": "FACE LIKE",
+  "short_name": "FLike",
+  "description": "Application de rencontre avec matching intelligent",
+  "theme_color": "#FF4081",
+  "background_color": "#FFFFFF"
+}
+- [ ] **A/B tester vos balises**  
+- [ ] **Analyser la concurrence**  
+- [ ] **Créer une campagne ASO**  
+
+Je peux vous fournir des rapports détaillés ou des templates prêts à l’emploi ! 🚀
+Besoin d’aide pour :  
+- [ ] **A/B tester vos balises**  
+- [ ] **Analyser la concurrence**  
+- [ ] **Créer une campagne ASO**  
+
+Je peux vous fournir des rapports détaillés ou des templates prêts à l’emploi ! 🚀
+
+[➡️ Cliquez ici pour créer votre dépôt maintenant](https://github.com/new)https://github.com/matanlurey/flutter-firebase-templatehttps://github.com/votre-username/face_like.git
